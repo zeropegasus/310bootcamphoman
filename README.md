@@ -1,9 +1,3 @@
 # comp310-starter
-This is a starter repository for COMP 310 (Operating Systems) students. You should fork this to work on your own homework. Please do not submit pull requests.
+This is my 310 Bootcamp Java --> C Assignment Repo
 
-## Learning objectives
-
-- Programming in C
-- Separate compilation
-- Build automation using CMake
-- Unit testing using GoogleTest
