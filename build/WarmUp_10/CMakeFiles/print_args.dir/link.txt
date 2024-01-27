@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/print_args.dir/print_args.c.o -o ../bin/print_args 
